@@ -1,0 +1,265 @@
+body {
+  font-family: "Encode Sans", sans-serif;
+  background-color: #ffffff;
+}
+
+.home-page {
+  width: 1600px;
+  height: 1080px;
+}
+
+a {
+  text-decoration: none;
+  color: unset;
+}
+
+.logo {
+  margin-top: 22px;
+  margin-left: 50px;
+  margin-bottom: 19px;
+  display: flex;
+  justify-content: center;
+}
+
+.linha-horizontal-topo {
+  margin-left: 135px;
+  width: 1286px;
+  height: 1px;
+  background-color: #f5f6f7;
+}
+
+.linha-horizontal-destaques {
+  width: 624px;
+  height: 1px;
+  background-color: #f5f6f7;
+}
+
+.linha-vertical {
+  width: 1px;
+  height: 873px;
+  background-color: #ebedef;
+  margin-right: 39px;
+  margin-bottom: 63px;
+}
+
+.topo {
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+  margin-left: 150px;
+  margin-right: 195px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.conteudo {
+  display: flex;
+  width: 1250px;
+  height: 1020px;
+  align-items: center;
+  margin-left: 150px;
+  margin-right: 190px;
+}
+
+.g1 {
+  color: #c3170c;
+}
+
+.o_globo {
+  color: #1e4b9b;
+}
+
+.valor {
+  color: #006766;
+}
+
+.ge {
+  color: #07aa47;
+}
+
+.cartola {
+  color: #e3662b;
+}
+
+.globoplay {
+  color: #fb0735;
+}
+
+.dropz {
+  color: #ff75bb;
+}
+
+.gshow {
+  color: #ec7d00;
+}
+
+.quem {
+  color: #323333;
+}
+
+.receitas {
+  color: #a81d83;
+}
+
+.esquerda {
+  width: 624px;
+  margin-bottom: 87px;
+  margin-right: 39px;
+}
+
+.principal {
+  margin-bottom: 25px;
+}
+
+.esquerda img {
+  border-radius: 12px;
+  width: 193px;
+  height: 110px;
+}
+
+.principal {
+  margin-top: -10px;
+}
+
+h1 {
+  font-size: 52px;
+  font-weight: 700;
+  color: #c4160c;
+}
+
+.principal p {
+  font-size: 18px;
+  font-weight: 500;
+  color: #303134;
+  margin-top: -5px;
+}
+
+.destaques #p1 {
+  font-size: 14px;
+  font-weight: 500;
+  color: #c4170c;
+  margin-top: 5px;
+}
+
+.destaques #p2 {
+  font-size: 19px;
+  font-weight: 700;
+  color: #2f3134;
+  margin-top: 0px;
+}
+
+.destaques #p3 {
+  font-size: 14px;
+  font-weight: 400;
+  color: #2f3134;
+  margin-top: 0px;
+}
+
+.destaques1 {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 25px;
+  margin-bottom: 36px;
+}
+
+.lama {
+  width: 193px;
+}
+
+.fogo {
+  width: 193px;
+}
+
+.subway {
+  width: 193px;
+}
+
+.destaques2 {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 25px;
+}
+
+.noticia1 {
+  width: 193px;
+}
+
+.noticia2 {
+  width: 193px;
+}
+
+.noticia3 {
+  width: 193px;
+}
+
+.direita {
+  display: flex;
+}
+
+.direita img {
+  border-radius: 12px;
+  width: 240px;
+  height: 128px;
+}
+
+.globoesporte {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 895px;
+  margin-bottom: 40px;
+  margin-right: 35px;
+  width: 240px;
+}
+
+.globoesporte #p1 {
+  font-size: 14px;
+  font-weight: 500;
+  color: #16ae54;
+  margin-top: 10px;
+}
+
+.globoesporte #p2 {
+  font-size: 19px;
+  font-weight: 700;
+  color: #2f3134;
+  margin-top: 5px;
+}
+
+.globoesporte #p3 {
+  font-size: 14px;
+  font-weight: 400;
+  color: #2f3134;
+  margin-top: -5px;
+}
+
+.variados {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 895;
+  margin-bottom: 80px;
+  margin-right: 35px;
+  width: 240px;
+}
+
+.variados #p1 {
+  font-size: 14px;
+  font-weight: 500;
+  color: #ec8006;
+  margin-top: 10px;
+}
+
+.variados #p2 {
+  font-size: 19px;
+  font-weight: 700;
+  color: #2f3134;
+  margin-top: 5px;
+}
+
+.variados #p3,
+#p4 {
+  font-size: 14px;
+  font-weight: 400;
+  color: #2f3134;
+}
