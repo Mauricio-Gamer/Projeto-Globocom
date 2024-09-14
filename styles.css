@@ -4,7 +4,7 @@ body {
 }
 
 .home-page {
-  width: 1600px;
+  width: 1250px;
   height: 1080px;
 }
 
@@ -14,18 +14,18 @@ a {
 }
 
 .logo {
-  margin-top: 22px;
-  margin-left: 50px;
-  margin-bottom: 19px;
   display: flex;
   justify-content: center;
+  margin-top: 22px;
+  margin-bottom: 19px;
+  margin-left: 5%;
 }
 
 .linha-horizontal-topo {
-  margin-left: 135px;
-  width: 1286px;
+  width: 1205px;
   height: 1px;
   background-color: #f5f6f7;
+  margin-left: 70px;
 }
 
 .linha-horizontal-destaques {
@@ -46,19 +46,18 @@ a {
   display: flex;
   justify-content: space-between;
   font-weight: bold;
-  margin-left: 150px;
-  margin-right: 195px;
   margin-top: 15px;
   margin-bottom: 15px;
+  margin-left: 70px;
+  margin-right: -20px;
 }
 
 .conteudo {
   display: flex;
-  width: 1250px;
+  width: 1000px;
   height: 1020px;
   align-items: center;
-  margin-left: 150px;
-  margin-right: 190px;
+  margin-left: 70px;
 }
 
 .g1 {
@@ -104,7 +103,7 @@ a {
 .esquerda {
   width: 624px;
   margin-bottom: 87px;
-  margin-right: 39px;
+  margin-right: 25px;
 }
 
 .principal {
@@ -208,7 +207,8 @@ h1 {
   justify-content: space-between;
   height: 895px;
   margin-bottom: 40px;
-  margin-right: 35px;
+  margin-right: 25px;
+  margin-left: -15px;
   width: 240px;
 }
 
@@ -239,7 +239,7 @@ h1 {
   justify-content: space-between;
   height: 895;
   margin-bottom: 80px;
-  margin-right: 35px;
+  margin-left: -15px;
   width: 240px;
 }
 
